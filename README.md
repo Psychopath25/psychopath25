@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saurav Kumar Yadav</h1>
 <h3 align="center">A passionate frontend developer from India!</h3>
 
-- 🔭 I’m currently working on [Travelia](https://github.com/princy-009/travelia)
+- 🔭 I’m currently working on [Travelia- A travel website](https://github.com/princy-009/travelia)
 
 - 🌱 I’m currently learning **DSA and front-end Development**
 
