@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA and front-end Development**
 
-- 📫 How to reach me **mems200005041@gmail.com**
+- 📫 Reach me at  **mems200005041@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
