@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saurav Kumar Yadav</h1>
-<h3 align="center">A passionate frontend developer from India!</h3>
+<h3 align="center">A passionate web developer from India!</h3>
 
-- 🔭 I’m currently working on [Travelia- A travel website](https://github.com/crims0n-sky/travelia)
+- 🔭 I’m currently working on [DealFinder -Amazon web scraper ](https://github.com/crims0n-sky/DealFinder)
 
-- 🌱 I’m currently learning **DSA and front-end Development**
+- 🌱 I’m currently learning **DSA and web Development**
 
 - 📫 Reach me at  **mems200005041@gmail.com**
 
